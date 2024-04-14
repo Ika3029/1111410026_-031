@@ -1,0 +1,7 @@
+C:\Users\wenne\source\repos\1111410026_王文妤 031\obj\Debug\1111410026_王文妤 031.csproj.AssemblyReference.cache
+C:\Users\wenne\source\repos\1111410026_王文妤 031\obj\Debug\1111410026_王文妤 031.csproj.CoreCompileInputs.cache
+C:\Users\wenne\source\repos\1111410026_王文妤 031\bin\Debug\1111410026_王文妤 031.exe.config
+C:\Users\wenne\source\repos\1111410026_王文妤 031\bin\Debug\1111410026_王文妤 031.exe
+C:\Users\wenne\source\repos\1111410026_王文妤 031\bin\Debug\1111410026_王文妤 031.pdb
+C:\Users\wenne\source\repos\1111410026_王文妤 031\obj\Debug\1111410026_王文妤 031.exe
+C:\Users\wenne\source\repos\1111410026_王文妤 031\obj\Debug\1111410026_王文妤 031.pdb
